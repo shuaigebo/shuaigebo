@@ -164,6 +164,6 @@ CCTV-高网,http://192.168.50.2:8888/udp/239.93.34.133:5140
 四川经济频道高清,http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
 四川新闻资讯,http://scgctvshow.sctv.com/sdlive/sctv4/3.m3u8
 四川星空购物,http://scgctvshow.sctv.com/sdlive/sctv6/3.m3u8
-泸州新闻综合,rtmp://61.157.168.66:1935/livepkgr/lztv1
-泸州公共生活,rtmp://61.157.168.66:1935/livepkgr/lztv2
-泸州科技教育,rtmp://61.157.168.66:1935/livepkgr/lztv3
+LZTV-1,rtmp://61.157.168.66:1935/livepkgr/lztv1
+LZTV-2,rtmp://61.157.168.66:1935/livepkgr/lztv2
+LZTV-3,rtmp://61.157.168.66:1935/livepkgr/lztv3
