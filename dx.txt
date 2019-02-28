@@ -1,2 +1,1 @@
-CCTV1高清,rtsp://118.122.175.92:554/PLTV/88888893/224/3221226889/10000100000000060000000000622347_0.smil
-四川新闻资讯,http://scgctvshow.sctv.com/sdlive/sctv4/3.m3u8
+CCTV1高清,http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
