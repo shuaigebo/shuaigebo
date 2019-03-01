@@ -1,4 +1,4 @@
 泸州新闻综合,http://61.157.168.66:6066/lztv1/lztv1.m3u8
 泸州公共生活,http://61.157.168.66:6066/lztv2/lztv2.m3u8
 泸州科技教育,http://61.157.168.66:6066/lztv3/lztv3.m3u8
-cctv1hd,http://ivi.buptedu.cn/hls/cctv1hd.m3u8
+cctv1hd,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
