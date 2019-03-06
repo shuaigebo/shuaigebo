@@ -56,5 +56,3 @@ CCTV-15,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/c
 泸州新闻综合,http://61.157.168.66:6066/lztv1/lztv1.m3u8#rtmp://61.157.168.66:1935/livepkgr/lztv1
 泸州公共生活,http://61.157.168.66:6066/lztv2/lztv2.m3u8#rtmp://61.157.168.66:1935/livepkgr/lztv2
 泸州科技教育,http://61.157.168.66:6066/lztv3/lztv3.m3u8#rtmp://61.157.168.66:1935/livepkgr/lztv3
-凤凰卫视,http://125.210.158.10:8060/live/FHZW_1200.m3u8
-QQ卫视,http://125.210.152.20:9090/live/WSHD_H265.m3u8
