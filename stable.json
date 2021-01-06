@@ -5,6 +5,10 @@
     "link": "https://raw.githubusercontent.com/shuaigebo/shuaigebo/master/MagiskManager.apk",
     "note": "https://raw.githubusercontent.com/shuaigebo/shuaigebo/master/changelog.md"
   },
+  "stub": {
+    "versionCode": "10",
+    "link": "https://raw.githubusercontent.com/shuaigebo/shuaigebo/master/stub-release.apk"
+  },
   "uninstaller": {
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.4/Magisk-uninstaller-20200323.zip"
   },
