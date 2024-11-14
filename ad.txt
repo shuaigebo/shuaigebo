@@ -3621,3 +3621,12 @@ DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
 DOMAIN-SUFFIX,sc.shayugg.com
 DOMAIN-SUFFIX,sezvc.com
 DOMAIN-SUFFIX,sys.zhangyue.com
+DOMAIN-SUFFIX,ad-cmp.hismarttv.com
+DOMAIN-SUFFIX,ad-download.hismarttv.com
+DOMAIN-SUFFIX,ad-imp.hismarttv.com
+DOMAIN-SUFFIX,ad-sdk-config.youdao.com
+DOMAIN-SUFFIX,canvas-cdn.gdt.qq.com
+DOMAIN-SUFFIX,cdn-plugin-sync-upgrade-juui.hismarttv.com
+DOMAIN-SUFFIX,upgrade-update.hismarttv.com
+DOMAIN-SUFFIX,v2-api-channel-launcher.hismarttv.com
+DOMAIN-SUFFIX,volc.bj.ad.track.66mobi.com
